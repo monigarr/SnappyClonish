@@ -1,7 +1,7 @@
 SnappyClonish
 =============
 
-Demo of iOS snap fish clone to show iOS development skills.
+Demo of iOS snap chat clone to show iOS development skills.
 
 Users send & receive photos & video messages that self destruct after 10 seconds.
 
